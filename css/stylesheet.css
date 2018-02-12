@@ -1,0 +1,32 @@
+.wrapper {
+	width: 75%;
+	background: white;
+	padding: 10px;
+	margin: 0 auto;
+	
+}
+body {
+	background: radial-gradient(red, blue);
+}
+h1 {
+	color: blue;
+}
+p {
+	font-size: 20px;
+}
+img {
+	width: 40%;
+	display: block;
+	outline: solid 5px black;
+	margin: 0 auto;
+}
+li {
+	font-size: 20px;
+	padding: 5px;
+	margin: 5px;
+}
+.profile {
+	width: 50%;
+	display: block;
+	outline: solid 5px black;
+}
