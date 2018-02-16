@@ -6,7 +6,7 @@
 	
 }
 body {
-	background: radial-gradient(red, blue);
+	background: radial-gradient(#d4ce46 40%, #0d9263);
 }
 h1 {
 	color: black;
@@ -34,14 +34,16 @@ footer {
 }
 a:link, a:visited {
 	text-decoration: none;
-	color: blue;
+	color: 	#494b4b;
+	border-radius: 25px;
+	background: #4aba91;
 	padding: 5px;
-	outline: 1px blue solid;
 }
 a:hover, a:active {
 	text-decoration: none;
-	color: blue;
-	background: orange;
+	color: #494b4b;
+	border-radius: 25px;
+	background: #d4ce46;
 	padding: 5px;
 }
 
